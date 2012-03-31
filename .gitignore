@@ -1,0 +1,4 @@
+*.suo
+win_twitter/bin/*
+win_twitter/obj/*
+.svn
